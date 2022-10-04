@@ -9,7 +9,7 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <packaging>jar</packaging>
   <properties>
   	<!-- Keep Hadoop versions as properties to allow easy modification -->
-    <spark.version>1.3.1</spark.version>
+    <spark.version>1.4.0</spark.version>
     <sparkavro.version>1.0.0</sparkavro.version>
     <avro.version>1.7.7</avro.version>
     <!-- Maven properties for compilation -->
